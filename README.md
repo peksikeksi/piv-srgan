@@ -1,4 +1,4 @@
-# SRGAN for Particle Image Velocimetry (PIV)
+# SRGAN for Particle Image Velocimetry (PIV) 
 
 ## Overview
 This project implements a Super-Resolution Generative Adversarial Network (SRGAN) to enhance the resolution of Particle Image Velocimetry (PIV) data. The goal is to upscale images from 64x64 pixels to 256x256 pixels, improving the visualization and analysis of fluid flow data. This project serves as an interesting experiment to explore the capabilities and limitations of using SRGAN for upscaling flow data.
